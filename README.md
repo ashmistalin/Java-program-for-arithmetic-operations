@@ -4,12 +4,15 @@
 To write a java program to print all the basic arithmetic operations.
 
 ## PROCEDURE:
-
-
-
-
-
-
+```
+1.Import the Scanner class from the java.util package to get user input from the console.
+2.Declare a class named MathOperation, and declare the main method within the MathOperation class.
+3.Create a Scanner object named 'sc' to get input from the user.
+4.Use the nextInt() method of the Scanner class to read the integer entered by the user and store it in the variable 'num1' and 'num2'.
+5.Calculate the sum, difference,product, division and remainder for the given input and print the output.
+6.Close the Scanner object using the close() method.
+7.End the main method, and then the math operatoion class.
+```
 ## PROGRAM:
 ```
 import java.util.Scanner;
